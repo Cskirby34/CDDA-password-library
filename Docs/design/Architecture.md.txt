@@ -1,0 +1,22 @@
+Overview
+
+This project is a simple password manager. It lets users save and view passwords securely.
+
+Main Parts
+
+Frontend
+The part users see and click on. It’s a simple web page or app.
+
+Backend
+Handles the logic, like saving and getting passwords. It talks to the database.
+
+Database
+Stores user info and encrypted passwords.
+
+Features
+
+User login and signup
+
+Add and view saved passwords
+
+All passwords are stored securely
